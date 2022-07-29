@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I'm Shukurullo, a Fullstack JavaScript developer.
+I'm Shukurullo, a Full-Stack JavaScript developer.
 
 ### ✍️ Languages
 
