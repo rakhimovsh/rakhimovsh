@@ -24,3 +24,6 @@ I'm Shukurullo, a Fullstack JavaScript developer.
 ### ❤️ GitHub Stats
 
 ![rakhimovsh's github stats](https://github-readme-stats.vercel.app/api?username=rakhimovsh&show_icons=true)
+
+## Snake 
+![snake gif](https://github.com/rakhimovsh/rakhimovsh/blob/output/github-contribution-grid-snake.gif)
